@@ -25,3 +25,34 @@ https://aimk12.tistory.com/43
 ## 4.H2 데이터베이스 설치 (성공)
 
 ## 5.JPA 와 AOP (이해하기 어렵다...공부하자..)
+
+-------------------------------------------
+# 스스로 복습해보면서 삭제기능 추가 구현
+
+
+일단 스스로 해보면서 주의해야 할점들을 블로그에 정리해놨다.
+
+https://aimk12.tistory.com/42
+
+### 1.home화면
+
+![캡처1](https://user-images.githubusercontent.com/91003734/145776539-aca6f786-024b-4c87-9cad-351e82df269d.PNG)
+
+### 2.가입화면 (가입해보기)
+
+![캡처2](https://user-images.githubusercontent.com/91003734/145776635-026e911c-8018-4994-9c33-3c5d4e4cf28f.PNG)
+
+### 3.회원목록 (가입 되어있음)
+
+![캡처3](https://user-images.githubusercontent.com/91003734/145776720-041e36c1-3d14-44f4-8fa4-a654f05f29fd.PNG)
+
+### 4.삭제화면(삭제해보기)
+
+![캡처4](https://user-images.githubusercontent.com/91003734/145776790-5dabdb35-3ff2-4324-9fd7-d6c35c392141.PNG)
+
+### 5.삭제된 목록(결과)
+
+![캡처5](https://user-images.githubusercontent.com/91003734/145776857-93e7bdeb-9604-4f1c-b3ac-6875d1fc0524.PNG)
+
+삭제기능 추가 구현 완성
+
